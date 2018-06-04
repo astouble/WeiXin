@@ -1,4 +1,4 @@
-package weixin.test.utils;
+package weixin.test.servlet;
 
 import java.security.MessageDigest;
 import java.util.Arrays;

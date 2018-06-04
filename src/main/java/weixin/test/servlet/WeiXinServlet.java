@@ -8,8 +8,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import weixin.test.utils.CheckUtil;
-
 public class WeiXinServlet extends HttpServlet{
 
 	@Override
