@@ -9,7 +9,7 @@ public class CheckUtil {
 	
 	public static boolean checkUtilStr(String signature,String timestamp,String nonce) {
 		String[] arr=new String[] {token,timestamp,nonce};
-		//
+		//ceshi
 		Arrays.sort(arr);
 		
 		//
